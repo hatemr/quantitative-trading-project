@@ -1,8 +1,21 @@
-
-# HM Capital Management
+# Quantitative Investment Strategy
 [Robert Hatem](https://www.linkedin.com/in/robert-e-hatem/ "LinkedIn Profile: Robert Hatem")  
 [Benjamin Morgan](https://www.linkedin.com/in/benjaminmorgan0921/ "LinkedIn Profile: Benjamin Morgan")  
 Spring 2019
+
+Code can be found [`strategy.py`](strategy.py).
+
+## Summary
+Project combines logistic regression, gradient boosting, and LSTMs to predict next-month returns.
+
+<img src="images/strategy_overview.png">
+
+<img src="images/PortfolioPerformanceBetaCap_10.png">
+
+<img src="images/PortfolioPerformanceBetaCap_10_Split.png">
+
+*Notice: this analysis is in-sample inference only.*
+
 
 ### Motivation Behind Exploring this Strategy:
 
