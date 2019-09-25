@@ -2,7 +2,7 @@
 Code can be found [`strategy.py`](strategy.py).
 
 ## Overview
-This project combines logistic regression, gradient boosting, and LSTMs to predict next-month returns. See below for more details.
+This project combines logistic regression, gradient boosting, and LSTMs to predict next-month returns in equities using fundamental and sentiment features. See below for details.
 
 <img src="images/strategy_overview.png">
 
