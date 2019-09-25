@@ -1,12 +1,8 @@
 # Quantitative Investment Strategy
-[Robert Hatem](https://www.linkedin.com/in/robert-e-hatem/ "LinkedIn Profile: Robert Hatem")  
-[Benjamin Morgan](https://www.linkedin.com/in/benjaminmorgan0921/ "LinkedIn Profile: Benjamin Morgan")  
-Spring 2019
-
 Code can be found [`strategy.py`](strategy.py).
 
-## Summary
-Project combines logistic regression, gradient boosting, and LSTMs to predict next-month returns.
+## Overview
+This project combines logistic regression, gradient boosting, and LSTMs to predict next-month returns. See below for more details.
 
 <img src="images/strategy_overview.png">
 
